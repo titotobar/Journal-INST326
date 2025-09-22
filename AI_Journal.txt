@@ -1,2 +1,5 @@
 This week I mainly used ChatGPT for my daily use. However I didn't just use it to get answers and get the work done easily. I used it as an assistant for my lectures. I uploaded the slides and asked it to give me a note based summary and it did.
 For this class, I mainly used it to give me a refresher on what I learned last semester for INST126. Most of the things I remembered, but what I asked it to give me a better recap on were boolean commands.
+
+WEEK 2:
+This week I used ChatGPT to help me do my lab exercises. I have a rule that I never ask chat for the answers directly, but instead I ask it to guide me step by step on how to get the answer. For example I asked it to go step by step for number 30. I also ask it to give me more practice problems so that I can practice and get the hang of Python.
