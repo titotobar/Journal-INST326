@@ -5,3 +5,4 @@ WEEK 2:
 This week I used ChatGPT to help me do my lab exercises. I have a rule that I never ask chat for the answers directly, but instead I ask it to guide me step by step on how to get the answer. For example I asked it to go step by step for number 30. I also ask it to give me more practice problems so that I can practice and get the hang of Python.
 WEEK 3:
 This week I used AI to guide me step bye step with my work, but I didn't ask it for the answers (only when I was really stuck).
+WEEK 4: This week I didn't use AI. The assignments were really easy.
