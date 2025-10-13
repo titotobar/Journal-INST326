@@ -6,3 +6,6 @@ This week I used ChatGPT to help me do my lab exercises. I have a rule that I ne
 WEEK 3:
 This week I used AI to guide me step bye step with my work, but I didn't ask it for the answers (only when I was really stuck).
 WEEK 4: This week I didn't use AI. The assignments were really easy.
+
+WEEK 5: 
+This week I only used AI to get our project to push to github which was pretty complicated.
